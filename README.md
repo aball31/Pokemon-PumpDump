@@ -36,7 +36,7 @@ Collectors | Data enthusiasts | Open-source contributors | Academic research
 
 **🤝 Contribute:** Open to developers, data scientists, and TCG enthusiasts!  
 ```bash
-git clone https://github.com/yourusername/pokemon-market-tracker.git
+git clone https://github.com/aball31/Pokemon-PumpDump.git
 ```
 ```
 
@@ -80,7 +80,7 @@ Collezionisti | Appassionati di dati | Collaboratori open-source | Ricerca accad
 
 **🤝 Contribuisci:** Aperto a sviluppatori, data scientist e appassionati TCG!  
 ```bash
-git clone https://github.com/yourusername/pokemon-market-tracker.git
+git clone https://github.com/aball31/Pokemon-PumpDump.git
 ```
 ```
 
